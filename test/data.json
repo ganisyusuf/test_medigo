@@ -1,0 +1,43 @@
+{
+	"patientDetail": {
+		"healthCenterId": null,
+		"mrn": null,
+		"userId": null,
+		"fullName": "Ucup",
+		"phoneNumber": "089762566222",
+		"email": "ucup@gmail.com",
+		"gender": "pria",
+		"idType": "KTP",
+		"idNumber": "32133221213",
+		"idPhoto": null,
+		"selfIdPhoto": null,
+		"birthDate": "2018-02-08",
+		"marriageStatus": null,
+		"religion": null,
+		"nationality": null,
+		"address": {
+			"province": null,
+			"city": null,
+			"district": null,
+			"village": null,
+			"detail": null
+		},
+		"medicalHistory": {
+			"bloodType": null,
+			"rhesusType": null,
+			"height": null,
+			"weight": null,
+			"diseasesHistory": null,
+			"isSmoking": null
+		},
+		"verified": false,
+		"isGuarded": false,
+		"relationToGuardian": null
+	},
+	"scheduleId": "5dd00933dbf9020034951011",
+	"date": "2019-11-19",
+	"slotNumber": 10,
+	"paymentType": null,
+	"guarantor": null,
+	"status": "pending"
+}
